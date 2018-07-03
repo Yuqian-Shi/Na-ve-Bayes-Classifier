@@ -1,9 +1,9 @@
 # simple-implement-of-Naive-Bayesian-Classifier
-a simple implement of naive Bayesian algorithm with python 3.5.2
-using data retrieved from [here](https://archive.ics.uci.edu/ml/datasets/Adult)
-the aim is to predict whether this person will earn more than 50K per year under the attributes given.
+A simple implement of naive Bayesian algorithm with python 3.5.2  
+Using data retrieved from [here](https://archive.ics.uci.edu/ml/datasets/Adult)    
+The aim is to predict whether this person will earn more than 50K per year under the attributes given.
 
-sample out put:
+Sample out put:
 ```
 time running read_file: 0.173 seconds
 training file loaded: 32561
